@@ -1,6 +1,9 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lewiswill&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lewiswill/count.svg" />
+</p>
 <!--
 **lewiswill/lewiswill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
